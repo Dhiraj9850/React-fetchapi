@@ -1,0 +1,7 @@
+.card{
+    width: 27rem;
+    margin-left: 3px;
+    margin-top: 1rem;
+    position: -webkit-sticky;
+    position: sticky;
+}

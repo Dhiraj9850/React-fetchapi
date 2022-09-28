@@ -1,0 +1,40 @@
+.header{
+    height: 50px;
+    background-color: rgb(4, 32, 32);
+    width: 100%;
+}
+.header h3{
+    color: white;
+    padding-top: 3px;
+}
+.box-container{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.table-data{
+    display: flex;
+    flex-direction: column;
+    width:65%;
+    margin-left: 9px;
+}
+.searchbox{
+   margin-left: 65%;
+   width: 35%;
+   outline: none;
+   border: 1px solid rgb(146, 144, 144);
+   border-radius: 10px;
+   height: 32px;
+}
+.table-header{
+    display: flex;
+    flex-direction: row;
+}
+.table{
+    border: 1px solid grey;
+}
+.card{
+    width: 23rem;
+    margin-left: 5px;
+}
